@@ -1,6 +1,6 @@
 # 属于我的react脚手架
 
-该脚手架基于create-react-app
+该脚手架基于create-react-app，多了一些我自己需要的特性
 
 # 该脚手架比起create-react-app多了哪些特性
 
